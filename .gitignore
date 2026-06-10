@@ -1,8 +1,15 @@
-.env
-
-data/chroma_db/
-
+# Virtual environment
 .venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Environment variables
+.env
+
+# Gradio
 .gradio/
+
+# Chroma database
+data/chroma_db/
