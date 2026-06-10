@@ -1,0 +1,13 @@
+source_name,source_url,output_file,notes
+ASU Official Off-Campus Housing,https://offcampushousing.asu.edu/,data\raw\01_asu_official_offcampus_housing.txt,raw page text
+Apartments.com ASU Campus Housing,https://www.apartments.com/off-campus-housing/az/tempe/arizona-state-university-tempe-campus/,data\raw\02_apartments_com_asu.txt,raw page text
+ForRentUniversity ASU Guide,https://www.forrentuniversity.com/Arizona-State-University-Tempe-Campus,data\raw\03_forrent_university_asu.txt,raw page text
+College Pads ASU Search,https://www.rentcollegepads.com/off-campus-housing/asu/search,data\raw\04_college_pads_asu.txt,raw page text
+uHomes Tempe,https://en.uhomes.com/us/tempe,data\raw\05_uhomes_tempe.txt,raw page text
+Birdeye Reviews,https://reviews.birdeye.com/the-district-on-apache-161368555711655,data\raw\06_birdeye_reviews.txt,raw page text
+RateMyApartments ASU,https://www.ratemyapartments.com/ratings/az/arizona-state-university-at-the-tempe-campus,data\raw\07_ratemyapartments_asu.txt,raw page text
+ApartmentList ASU Apartments,https://www.apartmentlist.com/off-campus-housing/az/asu-apartments-for-rent,data\raw\08_apartmentlist_asu.txt,raw page text
+ApartmentRatings Tempe,https://www.apartmentratings.com/az/tempe/,data\raw\09_apartmentratings_tempe.txt,raw page text
+Reddit ASU Apartments Search,https://www.reddit.com/r/ASU/search/?q=apartments,data\raw\reddit\reddit_search_no_threads.txt,no threads found
+Off-Campus Universe Housing Guide 1,https://www.offcampus-universe.com/post/apartments-near-arizona-state-university-best-off-campus-housing-for-asu-students,data\raw\11_offcampus_universe_guide_1.txt,raw page text
+Off-Campus Universe Housing Guide 2,https://www.offcampus-universe.com/post/asu-off-campus-housing-guide-apartments-houses-and-subleases-in-tempe,data\raw\12_offcampus_universe_guide_2.txt,raw page text

@@ -1,0 +1,63 @@
+chunk_id,source_file,title,chunk_index,char_count,word_count,token_estimate
+01_asu_official_offcampus_housing__0000,01_asu_official_offcampus_housing.txt,ASU Official Off-Campus Housing,0,2253,337,564
+01_asu_official_offcampus_housing__0001,01_asu_official_offcampus_housing.txt,ASU Official Off-Campus Housing,1,1863,337,466
+01_asu_official_offcampus_housing__0002,01_asu_official_offcampus_housing.txt,ASU Official Off-Campus Housing,2,1887,337,472
+01_asu_official_offcampus_housing__0003,01_asu_official_offcampus_housing.txt,ASU Official Off-Campus Housing,3,1923,337,481
+01_asu_official_offcampus_housing__0004,01_asu_official_offcampus_housing.txt,ASU Official Off-Campus Housing,4,1790,320,448
+02_college_pads_asu__0000,02_college_pads_asu.txt,College Pads ASU Search,0,1869,337,468
+02_college_pads_asu__0001,02_college_pads_asu.txt,College Pads ASU Search,1,1890,337,473
+02_college_pads_asu__0002,02_college_pads_asu.txt,College Pads ASU Search,2,1240,218,310
+03_uhomes_tempe__0000,03_uhomes_tempe.txt,uHomes Tempe,0,1809,337,453
+03_uhomes_tempe__0001,03_uhomes_tempe.txt,uHomes Tempe,1,1886,337,472
+03_uhomes_tempe__0002,03_uhomes_tempe.txt,uHomes Tempe,2,1778,337,445
+03_uhomes_tempe__0003,03_uhomes_tempe.txt,uHomes Tempe,3,2119,337,530
+03_uhomes_tempe__0004,03_uhomes_tempe.txt,uHomes Tempe,4,2174,337,544
+03_uhomes_tempe__0005,03_uhomes_tempe.txt,uHomes Tempe,5,2157,337,540
+03_uhomes_tempe__0006,03_uhomes_tempe.txt,uHomes Tempe,6,2125,337,532
+03_uhomes_tempe__0007,03_uhomes_tempe.txt,uHomes Tempe,7,2061,337,516
+03_uhomes_tempe__0008,03_uhomes_tempe.txt,uHomes Tempe,8,2138,337,535
+03_uhomes_tempe__0009,03_uhomes_tempe.txt,uHomes Tempe,9,2072,337,518
+03_uhomes_tempe__0010,03_uhomes_tempe.txt,uHomes Tempe,10,1970,337,493
+03_uhomes_tempe__0011,03_uhomes_tempe.txt,uHomes Tempe,11,2100,337,525
+03_uhomes_tempe__0012,03_uhomes_tempe.txt,uHomes Tempe,12,1973,337,494
+03_uhomes_tempe__0013,03_uhomes_tempe.txt,uHomes Tempe,13,2102,337,526
+03_uhomes_tempe__0014,03_uhomes_tempe.txt,uHomes Tempe,14,2006,337,502
+03_uhomes_tempe__0015,03_uhomes_tempe.txt,uHomes Tempe,15,1997,337,500
+03_uhomes_tempe__0016,03_uhomes_tempe.txt,uHomes Tempe,16,2097,337,525
+03_uhomes_tempe__0017,03_uhomes_tempe.txt,uHomes Tempe,17,2016,337,504
+03_uhomes_tempe__0018,03_uhomes_tempe.txt,uHomes Tempe,18,1977,337,495
+03_uhomes_tempe__0019,03_uhomes_tempe.txt,uHomes Tempe,19,2141,337,536
+03_uhomes_tempe__0020,03_uhomes_tempe.txt,uHomes Tempe,20,312,54,78
+04_birdeye_reviews__0000,04_birdeye_reviews.txt,Birdeye Reviews,0,1880,337,470
+04_birdeye_reviews__0001,04_birdeye_reviews.txt,Birdeye Reviews,1,1952,337,488
+04_birdeye_reviews__0002,04_birdeye_reviews.txt,Birdeye Reviews,2,901,147,226
+05_ratemyapartments_asu__0000,05_ratemyapartments_asu.txt,RateMyApartments ASU,0,1501,337,376
+05_ratemyapartments_asu__0001,05_ratemyapartments_asu.txt,RateMyApartments ASU,1,1489,337,373
+05_ratemyapartments_asu__0002,05_ratemyapartments_asu.txt,RateMyApartments ASU,2,1499,337,375
+05_ratemyapartments_asu__0003,05_ratemyapartments_asu.txt,RateMyApartments ASU,3,1653,275,414
+06_apartmentlist_asu__0000,06_apartmentlist_asu.txt,ApartmentList ASU Apartments,0,2091,337,523
+06_apartmentlist_asu__0001,06_apartmentlist_asu.txt,ApartmentList ASU Apartments,1,2125,337,532
+06_apartmentlist_asu__0002,06_apartmentlist_asu.txt,ApartmentList ASU Apartments,2,2184,337,546
+06_apartmentlist_asu__0003,06_apartmentlist_asu.txt,ApartmentList ASU Apartments,3,2152,337,538
+06_apartmentlist_asu__0004,06_apartmentlist_asu.txt,ApartmentList ASU Apartments,4,2059,337,515
+06_apartmentlist_asu__0005,06_apartmentlist_asu.txt,ApartmentList ASU Apartments,5,2280,337,570
+06_apartmentlist_asu__0006,06_apartmentlist_asu.txt,ApartmentList ASU Apartments,6,2266,337,567
+06_apartmentlist_asu__0007,06_apartmentlist_asu.txt,ApartmentList ASU Apartments,7,1669,248,418
+07_offcampus_universe_guide_1__0000,07_offcampus_universe_guide_1.txt,Off-Campus Universe Housing Guide 1,0,2281,337,571
+07_offcampus_universe_guide_1__0001,07_offcampus_universe_guide_1.txt,Off-Campus Universe Housing Guide 1,1,1707,267,427
+08_offcampus_universe_guide_2__0000,08_offcampus_universe_guide_2.txt,Off-Campus Universe Housing Guide 2,0,2121,337,531
+08_offcampus_universe_guide_2__0001,08_offcampus_universe_guide_2.txt,Off-Campus Universe Housing Guide 2,1,2196,328,549
+09_Apartments_to_Avoid__0000,09_Apartments_to_Avoid.txt,Apartments to Avoid,0,1697,271,425
+09_Apartments_to_Avoid__0001,09_Apartments_to_Avoid.txt,Apartments to Avoid,1,1686,253,422
+09_Apartments_to_Avoid__0002,09_Apartments_to_Avoid.txt,Apartments to Avoid,2,1763,275,441
+10_Do_Any_Student_Apartments_NOT_Suck__0000,10_Do_Any_Student_Apartments_NOT_Suck.txt,Do Any Student Apartments NOT Suck?,0,1623,274,406
+10_Do_Any_Student_Apartments_NOT_Suck__0001,10_Do_Any_Student_Apartments_NOT_Suck.txt,Do Any Student Apartments NOT Suck?,1,1653,268,414
+10_Do_Any_Student_Apartments_NOT_Suck__0002,10_Do_Any_Student_Apartments_NOT_Suck.txt,Do Any Student Apartments NOT Suck?,2,1601,246,401
+10_Do_Any_Student_Apartments_NOT_Suck__0003,10_Do_Any_Student_Apartments_NOT_Suck.txt,Do Any Student Apartments NOT Suck?,3,696,112,174
+11_Housing_Takeover_Megathread__0000,11_Housing_Takeover_Megathread.txt,Housing / Housing Takeover Megathread,0,1554,250,389
+11_Housing_Takeover_Megathread__0001,11_Housing_Takeover_Megathread.txt,Housing / Housing Takeover Megathread,1,1708,277,427
+11_Housing_Takeover_Megathread__0002,11_Housing_Takeover_Megathread.txt,Housing / Housing Takeover Megathread,2,1773,255,444
+11_Housing_Takeover_Megathread__0003,11_Housing_Takeover_Megathread.txt,Housing / Housing Takeover Megathread,3,1242,191,311
+12_What_Apartments_Are_Good_in_Tempe_Near_ASU__0000,12_What_Apartments_Are_Good_in_Tempe_Near_ASU.txt,"What Apartments Are Good in Tempe, Near ASU?",0,1697,273,425
+12_What_Apartments_Are_Good_in_Tempe_Near_ASU__0001,12_What_Apartments_Are_Good_in_Tempe_Near_ASU.txt,"What Apartments Are Good in Tempe, Near ASU?",1,1674,278,419
+12_What_Apartments_Are_Good_in_Tempe_Near_ASU__0002,12_What_Apartments_Are_Good_in_Tempe_Near_ASU.txt,"What Apartments Are Good in Tempe, Near ASU?",2,1082,172,271

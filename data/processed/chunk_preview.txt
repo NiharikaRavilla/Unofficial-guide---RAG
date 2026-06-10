@@ -1,0 +1,240 @@
+
+--- SAMPLE 1 ---
+chunk_id: 07_offcampus_universe_guide_1__0000
+source_file: 07_offcampus_universe_guide_1.txt
+title: Off-Campus Universe Housing Guide 1
+tokens_est: 571
+text:
+top of page Search Introduction Choosing the right apartments near Arizona State University is one of the most important parts of making your student life comfortable and connected. Whether you want to live steps away from the ASU Tempe campus or prefer a quiet area nearby, there’s an apartment for every lifestyle and budget. This guide covers the best student housing communities, neighborhoods, and practical tips for living off campus at ASU. 1. Why Live Near ASU? Living near ASU provides students with flexibility and freedom. Benefits include: Walking or biking distance to class. Access to nearby restaurants, gyms, and entertainment at Mill Avenue. A large, social student community. Convenient access to the light rail and campus shuttle. Tempe’s layout makes it easy to enjoy both academics and leisure. 2. apartments near Arizona State University — Best Neighborhoods and Apartments ASU students typically choose from these top neighborhoods: Downtown Tempe: Central, social, and close to campus. South Scottsdale: Trendy and full of student-friendly cafes. Mesa: Budget-friendly and connected via the light rail. Downtown Phoenix: Great for graduate students and ASU Downtown attendees. Popular apartment communities: The District on Apache: Luxury amenities and study lounges. Union Tempe: Rooftop pool, fitness center, and furnished units. Rise on Apache: Modern apartments designed for ASU students. Vertex Apartments: Affordable, student-focused complex near campus. 3. Budgeting for ASU Housing Tempe offers various rent options for students at different price points. Average monthly rent: Shared room: $900–$1,200 Studio: $1,400–$1,800 One-bedroom: $1,800–$2,400 Utilities & Wi-Fi: $100–$160 Budget tips: Share an apartment to reduce costs. Cook at home instead of eating out frequently. Use public transportation to avoid parking fees. 4. Roommates, Leases, and Rental Tips Before committing to a lease: Review all rental terms for deposits and maintenance policies. Ask if rent includes Wi-Fi or utilities. Meet your roommates to ensure compatibility. Keep a copy of your lease and digital records of all payments. 5. Safety and Neighborhood Security Tempe is generally student-friendly, but smart habits are essential: Choose apartments with gated entry and
+
+
+--- SAMPLE 2 ---
+chunk_id: 11_Housing_Takeover_Megathread__0000
+source_file: 11_Housing_Takeover_Megathread.txt
+title: Housing / Housing Takeover Megathread
+tokens_est: 389
+text:
+POST
+
+All posts looking for housing, lease takeovers, subleases, apartment questions, and roommate searches are consolidated into this thread.
+
+COMMENTS
+
+User: rabid_potatobee
+
+Looking for someone to take over a lease at University House starting in August.
+
+Apartment:
+
+* 3 Bed / 2 Bath
+* West Side
+
+Rent:
+
+* $965/month
+
+Details:
+
+* Women only
+* Two female roommates
+* STEM students
+* Studious and non-party environment
+
+User: Purple_Homework_7632
+
+Summer 2026 Sublease – University House Tempe
+
+Apartment:
+
+* Private 1 Bed / 1 Bath
+* Entire unit
+* Fully furnished
+
+Lease Term:
+
+* May 2026 – July 2026
+
+Rent:
+
+* $1,200/month
+* Original rent $1,555/month
+
+Apartment Features:
+
+* Fully furnished
+* Private bedroom
+* Private bathroom
+* Hardwood-style flooring
+* 9-foot ceilings
+* Stainless steel appliances
+* Washer and dryer
+* HDTV
+* Internet included
+* Floor-to-ceiling windows
+
+Community Amenities:
+
+* Resort-style pool
+* Hot tub
+* Fitness center
+* Yoga room
+* Volleyball court
+* Study spaces
+* Business center
+* Conference rooms
+* Clubroom overlooking Sun Devil Stadium
+* Resident events
+* Parking garage
+
+Location:
+
+* Across from Sun Devil Stadium
+* Adjacent to ASU campus
+* Near Valley Metro Light Rail
+* Walking distance to Mill Avenue
+
+User: OliveOli246
+
+District on Apache lease takeover.
+
+Apartment:
+
+* 3 Bed / 3 Bath
+
+Rent:
+
+* $1,375/month
+
+Lease Start:
+
+* August 15
+
+Amenities:
+
+* Pool
+* Study rooms
+* Gym
+* Private bathrooms
+* Washer and dryer
+
+User: Confused_Grey
+
+Lease takeover available at Villas at Tempe.
+
+Location:
+
+* 1111 E Apache Blvd
+
+
+--- SAMPLE 3 ---
+chunk_id: 04_birdeye_reviews__0001
+source_file: 04_birdeye_reviews.txt
+title: Birdeye Reviews
+tokens_est: 488
+text:
+didn't care just greedy! They're not helpful & overcharge & have hidden fees... read more Jess Jacobs 3 months ago I am writing this review because, unfortunately, it seems to be the only way to get management’s attention when issues are not being addressed. Currently, the side entrance fob access has been broken for weeks, creating an ongoing inconvenience for residents. The women’s sauna light hasn’t worked for the entire three years I have lived here, and the sauna completely stopped all function a few months ago. My repeated maintenance requests for it to be repaired have been ignored. The wifi is consistently spotty at best. It’s cl... read more Karly Perkins 4 months ago angela s 4 months ago there is a CONSTANT noise issue here. my room is ALWAYS shaking with people blasting music. I have had to report this maybe 20+ times this year and i am unsure that anything is done about it as it continues to happen with the same people. i am told that this is a leasing violation and notes are made in their profile but you’d think if this is true theyd be evicted by now with how often I’ve had to report them, no? there have been times during “office hours” where no one is even accessible. there is supposed to be security du... read more Frequently asked questions about The District on Apache How is The District on Apache rated? The District on Apache has a 3.8 star rating with 683 reviews. When is The District on Apache open? The District on Apache is open now. It will close at 5:00 p.m. Browse nearby Healthcare Automotive Real estate Wellness Home services Consumer services Dental Legal Finance Contractors Retail Need help? Contact us. Speak with a specialist to learn how you can grow with Birdeye. We are reachable at profiles@birdeye.com Popular Real Estate resources Blog A guide to effective real estate reputation management Real estate reputation management strategies to help businesses grow faster. 15 min read Blog The
+
+
+--- SAMPLE 4 ---
+chunk_id: 09_Apartments_to_Avoid__0000
+source_file: 09_Apartments_to_Avoid.txt
+title: Apartments to Avoid
+tokens_est: 425
+text:
+POST
+
+I'm looking at apartments for me, my partner, and dog to move into. We're older graduate students and want to live somewhere quiet near the light rail. Budget is $1,600 or less for a one-bedroom apartment.
+
+If you have horror stories or negative experiences with apartment complexes in Tempe, please share them.
+
+COMMENTS
+
+User: NibyAhamed
+
+I'd say Agave. Not a good place to stay. Has a lot of roaches.
+
+User: funkymonkey7777
+
+I am a graduate student at ASU and have lived in multiple apartments around Tempe.
+
+Places to avoid:
+
+West 6
+
+* Huge party atmosphere
+* Very noisy
+* Poor management
+
+Apollo
+
+* Similar environment to West 6
+* Things constantly breaking
+
+Oliv
+
+* Friends reported bad experiences
+
+Rise
+
+* Friends reported excessive noise
+
+University House
+
+Places I recommend:
+
+Redpoint
+
+* Good experience
+* Does not have 1x1 apartments
+
+Park Place
+
+* Great place overall
+* Noise depends on neighbors and pool-facing units
+
+The Local Apartments
+The Emerson
+
+* Great places
+* More expensive
+
+Union Tempe
+
+* Recommend North side units
+* South side less desirable
+* Amenities occasionally closed
+
+User: greyofgod
+
+I currently live at Park Place.
+
+My upstairs neighbor stomps around between 1 AM and 2 AM almost every night.
+
+People frequently party nearby and around the pool.
+
+Management took a long time to respond to noise complaints.
+
+The lack of sleep became a serious issue.
+
+User: brainDOA
+
+Sakara Apartments (now Greenhouse Apartments) was a terrible experience.
+
+Issues included:
+
+* Frequent management turnover
+* Broken laundry machines
+* Roach infestations
+* Poor maintenance
+* Police activity in parking lots
+
+The property became more expensive while quality remained poor.
+
+
+--- SAMPLE 5 ---
+chunk_id: 03_uhomes_tempe__0002
+source_file: 03_uhomes_tempe.txt
+title: uHomes Tempe
+tokens_est: 445
+text:
+Avenue, Tempe, Arizona 85281 0.56 mi from Arizona State University, Tempe (straight line)  14 min  3 min Must-Stay List No.7   Student Accommodation Referral Bonus Refer A Friend Cashback Weekend Check-In Available Luxury Community Near Shopping Center Near park Near school bus City View Saved 2 times in 30 days  Offers up to US$209.5 From US$905.44 /month Enquire    Apollo Tempe 1100 E. Apache Blvd, Tempe, Arizona 85281 0.98 mi walk from Arizona State University, Tempe  21 min  7 min  9 min  19 min Must-Stay List No.8   Student Accommodation with air-con Walk to school In-unit Washer/Dryer Gym Furnished  Offers up to US$98.5 From US$1,310 /month Enquire    Redpoint Tempe 708 S Lindon Lane, Tempe, Arizona 85281 2.46 mi walk from Arizona State University, Tempe  13 min  11 min  47 min  58 min Must-Stay List No.9   Student Accommodation No Service Fee Free shuttle bus pets allowed Gym Furnished  Offers up to US$153.5 From US$709 /month Enquire    Alight Tempe 1900 E Apache Blvd, Tempe, Arizona 85281 1.82 mi walk from Arizona State University, Tempe  20 min  8 min  10 min  35 min Must-Stay List No.10   Student Accommodation No Service Fee Bills included Gym Furnished Saved 2 times in 30 days  Offers up to US$153.5 From US$595 /month Enquire    Lofts on 8th 957 South Gary Drive, Tempe, Arizona 85281 1.04 mi walk from Arizona State University, Tempe  23 min  3 min  6 min  20 min  Student Accommodation No Service Fee Furnished  Offers up to US$153.5 From US$999 US$995 /month Enquire    University Valley 1115 E Lemon Street, Tempe, Arizona 85281 0.81 mi walk from Arizona State University, Tempe  15 min  5 min  6 min  16 min  Apartment 24 hours security Gym Elevator Saved 1 times in 30 days  Offers up to
