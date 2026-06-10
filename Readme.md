@@ -32,10 +32,10 @@ ASU Off-campus housing experiences is my domain. As an international student, wh
 | 6 |Apartmentlist.com |Housing Listings |https://www.apartmentlist.com/off-campus-housing/az/asu-apartments-for-rent |
 | 7 | Off-Campus Universe guide | Housing Guide | https://www.offcampus-universe.com/post/apartments-near-arizona-state-university-best-off-campus-housing-for-asu-students |
 | 8 | Off-Campus Universe guide | Housing Guide | https://www.offcampus-universe.com/post/asu-off-campus-housing-guide-apartments-houses-and-subleases-in-tempe |
-| 9 |Reddit search |Reddit Discussion|https://www.reddit.com/r/ASU/search/?q=apartments |
-| 10 |Reddit search |Reddit Discussion|https://www.reddit.com/r/ASU/search/?q=apartments |
-| 11 |Reddit search |Reddit Discussion |https://www.reddit.com/r/ASU/search/?q=apartments |
-| 12 |Reddit search |Reddit Discussion |https://www.reddit.com/r/ASU/search/?q=apartments |
+| 9 |Apartments to avoid |Reddit Discussion|https://www.reddit.com/r/ASU/search/?q=apartments |
+| 10 |Do Any student Apartments NOT suck? |Reddit Discussion|https://www.reddit.com/r/ASU/search/?q=apartments |
+| 11 |Housing takeover Megathread |https://www.reddit.com/r/ASU/search/?q=apartments |
+| 12 |What Apartments are good in tempe near ASU? |https://www.reddit.com/r/ASU/search/?q=apartments |
 
 ---
 
